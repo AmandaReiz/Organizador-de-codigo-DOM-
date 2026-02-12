@@ -30,7 +30,7 @@ Ideal para desenvolvedores que querem **salvar, categorizar e encontrar códigos
 ## 📸 Preview do projeto
 
 <p align="center">
-  <img src="./print.png" width="700">
+  <img src="./print.PNG" width="700">
 </p>
 
 ---
@@ -39,4 +39,5 @@ Ideal para desenvolvedores que querem **salvar, categorizar e encontrar códigos
 1. Clone o repositório:
 ```bash
 [git clone https://github.com/seu-usuario/organizador-de-codigos](https://github.com/AmandaReiz/Organizador-de-codigo-DOM-.git)
+
 
